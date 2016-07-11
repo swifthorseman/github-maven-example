@@ -1,0 +1,24 @@
+-classpath
+'/Users/harry/lab/github-maven-example/example/target/classes'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/harry/lab/github-maven-example/example/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2016. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/harry/lab/github-maven-example/example/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GitHub Maven Plugin Example 0.3-SNAPSHOT API'
+-link
+'http://java.sun.com/javase/6/docs/api'
+-use
+-version
+-windowtitle
+'GitHub Maven Plugin Example 0.3-SNAPSHOT API'
